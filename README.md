@@ -1,4 +1,3 @@
-# Handwritte_Digit_Recognition
 # Handwritten Digit Recognition Using CNN
 
 ## Project Overview
